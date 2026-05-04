@@ -16,21 +16,6 @@ Android port of the JavaFX Photos assignment. The app is written in Java with An
 - Supports one or two search predicates with AND/OR.
 - Provides autocomplete suggestions from existing tag values.
 
-## Build
-
-Open this folder in Android Studio and run the `app` configuration on an emulator such as Pixel 6 or Medium Phone using API 36 or 37.
-
-From the command line:
-
-```bash
-./gradlew assembleDebug
-```
-
-The debug APK is created at:
-
-```text
-app/build/outputs/apk/debug/app-debug.apk
-```
 
 ## GenAI Use
 
