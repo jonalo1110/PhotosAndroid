@@ -19,7 +19,7 @@ Android port of the JavaFX Photos assignment. The app is written in Java with An
 
 ## GenAI Use
 
-I used OpenAI Codex as a coding assistant while working through the Android version of the Photos project. I provided screenshots of the assignment requirements so the GenAI tool could help me organize the required features into smaller implementation steps. I then used it in stages to help scaffold the Android Studio project and refine separate functional pieces such as album management, photo display, tagging, moving photos, searching, persistence, and build verification.
+I used OpenAI as a coding assistant while working through the Android version of the Photos project. I provided screenshots of the assignment requirements so the GenAI tool could help me organize the required features into smaller implementation steps. I then used it in stages to help scaffold the Android Studio project and refine separate functional pieces such as album management, photo display, tagging, moving photos, searching, persistence, and build verification.
 
 Prompts/refinements used:
 
@@ -45,7 +45,6 @@ AI-generated components:
 - Draft Java model classes for albums, photos, and tags.
 - Draft JSON persistence code using `SharedPreferences`.
 - Draft Java activity logic for navigation and feature workflows.
-- Draft README text.
 
 Student-written/manual components:
 
